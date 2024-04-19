@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EggsCount</string>
+    <string name="display_count">Units: %1$d \nDozens: %2$d \nGrosses: %3$d</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_egg_amount">Enter Egg Amount:</string>
+    <string name="results">Results:</string>
+</resources>
